@@ -34,6 +34,7 @@ Aplicação de gerenciamento de tarefas desenvolvida com HTML, CSS e JavaScript.
 🔗 Demo: https://guivolpolini.github.io/to-do-list
 
 💻 Código: https://github.com/guivolpolini/to-do-list.git
+
 ---
 
 ### 🌦 App de Clima
@@ -50,5 +51,6 @@ Calculadora interativa desenvolvida com JavaScript.
 📧 Email: guilherme.volpolini@email.com
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
 💻 GitHub: https://github.com/guivolpolini
+
 
 
