@@ -49,8 +49,11 @@ Calculadora interativa desenvolvida com JavaScript.
 ## 📫 Contato
 
 📧 Email: guilherme.volpolini@email.com
+
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
+
 💻 GitHub: https://github.com/guivolpolini
+
 
 
 
