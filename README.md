@@ -31,9 +31,8 @@ Meu objetivo é conquistar uma oportunidade de estágio na área de tecnologia p
 ### 📝 To-Do List
 Aplicação de gerenciamento de tarefas desenvolvida com HTML, CSS e JavaScript.
 
-🔗 Demo: https://seuusuario.github.io/todo-list  
-💻 Código: https://github.com/seuusuario/todo-list
-
+🔗 Demo: https://guivolpolini.github.io/to-do-list
+💻 Código: https://github.com/guivolpolini/to-do-list.git
 ---
 
 ### 🌦 App de Clima
@@ -44,13 +43,10 @@ Aplicação que consome API para mostrar a temperatura de cidades.
 ### 🧮 Calculadora
 Calculadora interativa desenvolvida com JavaScript.
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
 
 ## 📫 Contato
 
-💼 LinkedIn: https://linkedin.com/in/seuperfil  
-📧 Email: seuemail@email.com
+📧 Email: guilherme.volpolini@email.com
+💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
+💻 GitHub: https://github.com/guivolpolini
+
