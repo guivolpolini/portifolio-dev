@@ -2,14 +2,14 @@
 # 👋 Olá, eu sou Guilherme Volpolini
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento web  
+💻 Focado em desenvolvimento backend
 🚀 Buscando minha primeira oportunidade de estágio em tecnologia
 
 ## 👨‍💻 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com interesse em desenvolvimento de software e tecnologia.
 
-Tenho conhecimentos em desenvolvimento web e programação, e estou constantemente criando projetos para evoluir minhas habilidades.
+Tenho conhecimentos em programação , e estou constantemente criando projetos para evoluir minhas habilidades.
 
 Meu objetivo é conquistar uma oportunidade de estágio na área de tecnologia para aplicar meus conhecimentos na prática e crescer como desenvolvedor.
 
@@ -53,6 +53,7 @@ Calculadora interativa desenvolvida com JavaScript.
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
 
 💻 GitHub: https://github.com/guivolpolini
+
 
 
 
