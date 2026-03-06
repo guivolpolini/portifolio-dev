@@ -46,9 +46,6 @@ Aplicação que consome API para mostrar a temperatura de cidades.
 
 ---
 
-### 🧮 Calculadora
-Calculadora interativa desenvolvida com JavaScript.
-
 
 ## 📫 Contato
 
@@ -57,6 +54,7 @@ Calculadora interativa desenvolvida com JavaScript.
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
 
 💻 GitHub: https://github.com/guivolpolini
+
 
 
 
