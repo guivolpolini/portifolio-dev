@@ -22,8 +22,8 @@ Estou em busca da minha primeira oportunidade de estágio na área de TI para ap
 ### To-Do List
 Aplicação de gerenciamento de tarefas desenvolvida com JavaScript que permite adicionar, concluir e remover tarefas, com armazenamento no navegador usando LocalStorage.
 
-🔗 Demo: https://seuusuario.github.io/todo-list  
-💻 Código: https://github.com/seuusuario/todo-list
+🔗 Demo: https://guivolpolini.github.io/to-do-list  
+💻 Código: https://github.com/guivolpolini/to-do-list.git
 
 ---
 
@@ -40,3 +40,4 @@ Aplicação que consome uma API para mostrar a temperatura de uma cidade em temp
 📧 Email: guilherme.volpolini@email.com  
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
 💻 GitHub: https://github.com/guivolpolini
+
