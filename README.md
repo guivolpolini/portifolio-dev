@@ -40,7 +40,7 @@ Aplicação de gerenciamento de tarefas desenvolvida com HTML, CSS e JavaScript.
 ### 🌦 App de Clima
 Aplicação que consome API para mostrar a temperatura de cidades.
 
-🔗 Demo: https://guivolpolini.github.io/app-previs-odotempo.git/
+🔗 Demo: https://guivolpolini.github.io/app-previs-odotempo/
 
 💻 Código: https://github.com/guivolpolini/app-previs-odotempo.git
 
@@ -57,6 +57,7 @@ Calculadora interativa desenvolvida com JavaScript.
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
 
 💻 GitHub: https://github.com/guivolpolini
+
 
 
 
