@@ -31,7 +31,7 @@ Meu objetivo é conquistar uma oportunidade de estágio na área de tecnologia p
 ### 📝 To-Do List
 Aplicação de gerenciamento de tarefas desenvolvida com HTML, CSS e JavaScript.
 
-🔗 Demo: https://guivolpolini.github.io/to-do-list.git/
+🔗 Demo: https://guivolpolini.github.io/to-do-list/
 
 💻 Código: https://github.com/guivolpolini/to-do-list.git
 
@@ -57,6 +57,7 @@ Calculadora interativa desenvolvida com JavaScript.
 💼 LinkedIn: https://www.linkedin.com/in/guilherme-volpolini-a60961312/
 
 💻 GitHub: https://github.com/guivolpolini
+
 
 
 
